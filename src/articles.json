@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "npm audit: Broken by Design",
+      "url": "https://overreacted.io/npm-audit-broken-by-design/",
+      "created": "07-07-2021",
+      "read_time_min": "14",
+      "short_content": "Found 99 vulnerabilities (84 moderately irrelevant, 15 highly irrelevant)"
+    },
+    {
+      "id": "2",
+      "title": "Before You memo()",
+      "url": "https://overreacted.io/before-you-memo/",
+      "created": "02-23-2021",
+      "read_time_min": "5",
+      "short_content": "Rendering optimizations that come naturally."
+    },
+    {
+      "id": "3",
+      "title": "The WET Codebase",
+      "url": "https://overreacted.io/the-wet-codebase/",
+      "created": "07-13-2021",
+      "read_time_min": "1",
+      "short_content": "Come waste your time with me."
+    },
+    {
+      "id": "4",
+      "title": "Goodbye, Clean Code",
+      "url": "https://overreacted.io/goodbye-clean-code/",
+      "created": "01-11-2020",
+      "read_time_min": "5",
+      "short_content": "Let clean code guide you. Then let it go."
+    },
+    {
+      "id": "5",
+      "title": "My Decade in Review",
+      "url": "https://overreacted.io/my-decade-in-review/",
+      "created": "01-01-2020",
+      "read_time_min": "56",
+      "short_content": "A personal reflection."
+    },
+    {
+      "id": "6",
+      "title": "What Are the React Team Principles?",
+      "url": "https://overreacted.io/what-are-the-react-team-principles/",
+      "created": "12-25-2019",
+      "read_time_min": "5",
+      "short_content": "UI Before API."
+    },
+    {
+      "id": "7",
+      "title": "On let vs const",
+      "url": "https://overreacted.io/on-let-vs-const/",
+      "created": "12-22-2019",
+      "read_time_min": "3",
+      "short_content": "So which one should I use?"
+    },
+    {
+      "id": "8",
+      "title": "What Is JavaScript Made Of?",
+      "url": "https://overreacted.io/what-is-javascript-made-of/",
+      "created": "12-20-2019",
+      "read_time_min": "13",
+      "short_content": "Getting a closure on JavaScript."
+    }
+  ]
+}

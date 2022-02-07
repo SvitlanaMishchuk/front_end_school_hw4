@@ -1,0 +1,28 @@
+{
+  "data": {
+    "light": {
+      "id": "light",
+      "name": "Light",
+      "colors": {
+        "text": "#000000",
+        "link": {
+          "text": "#e8757c",
+          "opacity": 1
+        }
+      },
+      "background": "#FFFFFF"
+    },
+    "dark": {
+      "id": "dark",
+      "name": "Dark",
+      "colors": {
+        "text": "#ffffff",
+        "link": {
+          "text": "#ff827f",
+          "opacity": 0.7
+        }
+      },
+      "background": "#282c35"
+    }
+  }
+}
